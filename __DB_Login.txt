@@ -1,0 +1,8 @@
+
+DOMAIN: team6.toddtwiggs.com
+IP ADDRESS: 160.153.54.137
+
+DATABASE: DogShelter
+
+USERNAME: Team6
+PASSWORD: Team6FinalProject
